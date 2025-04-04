@@ -1,1 +1,1 @@
-console.log("hello JS");
+console.log("hello JS.","This is my first program.");
